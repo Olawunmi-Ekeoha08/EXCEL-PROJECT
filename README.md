@@ -9,7 +9,7 @@
 #### Then I proceeded to splitting the columns of the category because its a multi level category all in one category.
 #### To do this I copied the category and pasted on another sheet , i then proceeded to highlighting the sheet, then to my text to columns button and used delimeter to split the columns.
 #### Thereafter I renamed each categories and pasted them back in the main data , i deleted the main category(mother category ) becasue I had already done some splitting.
-#### after this step i filtered my data and checkef for errors in all colums and made some corrections. 
+#### after this step i filtered my data and checked for errors in all colums and made some corrections. 
 #### I wanted to split the product name but it kept on giving wrong splitting, so i left it with the way it is long. Maybe after this project i will go back to it and give it another trail.
 #### After all these steps I changed my sheet to table by using Clt + T and proceeded to summarize my data in my Pivot table.
 #### This was how i achieved my result.
